@@ -10,4 +10,4 @@ Pastikan semua data wajib sudah terisi dengan benar. Jika data masih tidak tersi
 cek kembali koneksi jaringan internet atau hubungi admin.
 
 ## Sistem tidak bisa melakukan pengunduhan data Excel, apa penyebabnya?
-Pastikan jenis sumur serta tanggal awal dan akhir sudah terpilih dengan benar. Jika proses ekspor masih gagal, cek kembali koneksi internet atau pastikan server lokal (XAMPP) berjalan dengan baik.
+Pastikan jenis sumur serta tanggal awal dan akhir sudah terpilih dengan benar. Jika proses export masih gagal, cek kembali koneksi internet atau pastikan server lokal (XAMPP) berjalan dengan baik.
