@@ -18,7 +18,7 @@ Berikut merupakan dokumen yang tersedia dalam repository ini :
 - Hasil penerapan dari proyek magang
 
   ## Tentang Penulis
-  Dokumentasi ini ditulis oleh seorang technical writer pemula sebagai bagian dari pembelajaran
+  Dokumentasi ini dibuat oleh saya sebagai bagian dari pengalaman magang untuk menunjukkan kemampuan technical writing.
 
   ## Catatan
-  Dokumen ini ditujukan untuk sisi pengguna dan tidak membahas detail pengembangan sistem
+  Dokumen ini ditujukan untuk sisi pengguna dan tidak membahas detail pengembangan sistem.
