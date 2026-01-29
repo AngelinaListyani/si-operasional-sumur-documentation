@@ -12,13 +12,13 @@ Berikut merupakan dokumen yang tersedia dalam repository ini :
 - [User Guide](docs/user-guide.md)
   Berisi panduan penggunaan sistem untuk pengguna
 
-  ## Tujuan Repository
+## Tujuan Repository
 - Contoh dokumentasi sistem berbasis web
 - Portofolio technical writer pemula
 - Hasil penerapan dari proyek magang
 
-  ## Tentang Penulis
+## Tentang Penulis
   Dokumentasi ini dibuat oleh saya sebagai bagian dari pengalaman magang untuk menunjukkan kemampuan technical writing.
 
-  ## Catatan
-  Dokumen ini ditujukan untuk sisi pengguna dan tidak membahas detail pengembangan sistem.
+## Catatan
+Dokumentasi ini dibuat sebagai bagian dari project magang dan portofolio pembelajaran. Konten telah disederhanakan dan tidak merepresentasikan sistem operasional sebenarnya.
