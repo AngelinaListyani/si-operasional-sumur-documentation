@@ -1,24 +1,56 @@
-# Sistem Informasi Operasional Sumur
-Repository ini berisi dokumentasi penggunaan Sistem Informasi Operasional Sumur yang dikembangkan sebagai bagian dari proyek magang.
+# Sistem Operasional Kontrol Sumur
 
-## Tentang Sistem
-Sistem Informasi Operasional Sumur merupakan aplikasi berbasis web yang digunakan untuk merekap dan mengelola data sumur agar lebih efisien.
+## Gambaran Umum 
 
-## Dokumentasi 
-Berikut merupakan dokumen yang tersedia dalam repository ini :
-- [Overview Sistem](docs/overview.md)
-  Berisi gambaran umum, tujuan sistem, dan masalah yang diselesaikan
+Repository ini berisi dokumentasi dan analisis sistem operasional sumur yang dikembangkan berdasarkan studi kasus dari pengalaman magang. 
+Sistem ini dirancang untuk mengatasi permasalahan pencatatan data operasional yang sebelumnya dilakukan secara manual, sehingga meningkatkan efisiensi, akurasi, dan kemudahan monitoring.
+
+## Tujuan Proyek
+
+* Menganalisis proses operasional sumur dalam lingkungan kerja nyata
+* Mengidentifikasi permasalahan pada sistem manual
+* Mendesain alur sistem dan struktur data
+* Menyusun dokumentasi sistem yang terstruktur dan mudah dipahami
   
-- [User Guide](docs/user-guide.md)
-  Berisi panduan penggunaan sistem untuk pengguna
+## Gambaran Sistem
 
-## Tujuan Repository
-- Contoh dokumentasi sistem berbasis web
-- Portofolio technical writer pemula
-- Hasil penerapan dari proyek magang
+Sistem Operasional Kontrol Sumur merupakan aplikasi berbasis web yang digunakan untuk mengelola dan merekap data operasional sumur secara terpusat. Sistem ini mendukung proses input data, monitoring, serta pelaporan operasional.
 
-## Tentang Penulis
-  Dokumentasi ini dibuat oleh saya sebagai bagian dari pengalaman magang untuk menunjukkan kemampuan technical writing.
+## Ringkasan Proyek 
+
+Dokumentasi dalam repository ini mencakup :
+* Business Overview
+* Problem Analysis
+* System Design
+* Workflow Process
+* Data Structure
+* Use Case
+* Conclusion
+  
+## Struktur Dokumentasi 
+
+Silakan lihat folder `docs/` untuk detail dokumentasi:
+* Business Overview
+* Problem Analysis
+* System Design
+* Workflow Process
+* Data Structure
+* Use Case
+* Conclusion
+  
+## Keterampilan yang Ditunjukkan 
+
+* System Analysis
+* Business Process Understanding
+* Data Structuring
+* Documentation Writing
+* Analytical Thinking
+  
+## Penulis
+Angelina Listyani Kartika  
+S1 Teknik Informatika
 
 ## Catatan
-Dokumentasi ini dibuat sebagai bagian dari project magang dan portofolio pembelajaran. Konten telah disederhanakan dan tidak merepresentasikan sistem operasional sebenarnya.
+
+Project ini merupakan dokumentasi berbasis studi kasus dari pengalaman magang.
+Konten telah disederhanakan dan tidak merepresentasikan sistem operasional sebenarnya.
