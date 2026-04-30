@@ -2,7 +2,7 @@
 
 ## Gambaran Umum 
 
-Repository ini berisi dokumentasi dan analisis sistem operasional sumur yang dikembangkan berdasarkan studi kasus dari pengalaman magang. 
+Repositori ini berisi dokumentasi dan analisis sistem operasional sumur yang dikembangkan berdasarkan studi kasus dari pengalaman magang. 
 Sistem ini dirancang untuk mengatasi permasalahan pencatatan data operasional yang sebelumnya dilakukan secara manual, sehingga meningkatkan efisiensi, akurasi, dan kemudahan monitoring.
 
 ## Tujuan Proyek
@@ -18,33 +18,33 @@ Sistem Operasional Kontrol Sumur merupakan aplikasi berbasis web yang digunakan 
 
 ## Ringkasan Proyek 
 
-Dokumentasi dalam repository ini mencakup :
-* Business Overview
-* Problem Analysis
-* System Design
-* Workflow Process
-* Data Structure
+Dokumentasi dalam repositori ini mencakup :
+* Gambaran Umum Bisnis
+* Analisis Permasalahan
+* Perancangan Sistem 
+* Alur Kerja Sistem
+* Struktur Data
 * Use Case
-* Conclusion
+* Kesimpulan
   
 ## Struktur Dokumentasi 
 
-Silakan lihat folder `docs/` untuk detail dokumentasi:
-* Business Overview
-* Problem Analysis
-* System Design
-* Workflow Process
-* Data Structure
+Silakan lihat folder [docs](./docs/) untuk detail dokumentasi:
+* Gambaran Umum Bisnis
+* Analisis Permasalahan
+* Perancangan Sistem 
+* Alur Kerja Sistem
+* Struktur Data
 * Use Case
-* Conclusion
+* Kesimpulan
   
 ## Keterampilan yang Ditunjukkan 
 
-* System Analysis
-* Business Process Understanding
-* Data Structuring
-* Documentation Writing
-* Analytical Thinking
+* Analisis Sistem 
+* Pemahaman Proses Bisnis
+* Pengelolaan Data
+* Penulisan Dokumentasi
+* Berpikir Analitis
   
 ## Penulis
 Angelina Listyani Kartika  
@@ -52,5 +52,5 @@ S1 Teknik Informatika
 
 ## Catatan
 
-Project ini merupakan dokumentasi berbasis studi kasus dari pengalaman magang.
+Proyek ini merupakan dokumentasi berbasis studi kasus dari pengalaman magang.
 Konten telah disederhanakan dan tidak merepresentasikan sistem operasional sebenarnya.
