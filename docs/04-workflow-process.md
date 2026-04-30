@@ -1,4 +1,4 @@
-# Alur Sistem 
+# Alur Kerja Sistem 
 1. Admin Operasional melakukan input data operasional sumur
 2. Sistem memproses, memvalidasi, dan memastikan konsistensi data yang dimasukkan 
 3. Data disimpan dalam database secara terpusat
