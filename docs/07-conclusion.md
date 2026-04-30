@@ -1,4 +1,4 @@
-# Conclusion 
+# Kesimpulan  
 
 Berdasarkan hasil analisis dan perancangan sistem Operasional Kontrol Sumur, dapat disimpulkan bahwa implementasi sistem ini
 mampu menggantikan proses pencatatan manual menjadi sistem terkomputerisasi.
@@ -12,7 +12,7 @@ Sistem ini memberikan beberapa peningkatan, diantaranya:
 Dengan adanya sistem ini, proses operasional menjadi lebih efisien dan data yang dihasilkan lebih akurat 
 sehingga dapat mendukung pengambilan keputusan oleh pihak manajemen.
 
-**Future Improvement**
+**Pengembangan Selanjutnya**
 
 Pengembangan sistem ke depan dapat mencakup:
 * Penambahan fitur visualisasi data (dashboard grafik yang lebih interaktif)
