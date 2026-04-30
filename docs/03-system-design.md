@@ -1,10 +1,11 @@
 # System Design 
 
 ## System Overview
+
 Sistem Operasional Kontrol Sumur merupakan sistem berbasis web yang digunakan untuk mengelola dan 
 merekap data operasional sumur secara terpusat. Sistem ini dirancang untuk meningkatkan efektivitas, 
 akurasi, dan keteraturan data, serta mempermudah proses monitoring dan pengambilan 
-keputusan oleh manajemen
+keputusan oleh manajemen.
 ---
 ## System Components
 1. User (Admin Operasional dan Kepala Bagian)
