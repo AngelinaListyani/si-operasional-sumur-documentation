@@ -1,4 +1,4 @@
-# Business Overview
+# Gambaran Umum Bisnis
 
 PT. Kimia Farma Plant Watudakon merupakan perusahaan yang bergerak di bidang farmasi, khususnya dalam produksi yodium
 untuk bahan baku obat.
