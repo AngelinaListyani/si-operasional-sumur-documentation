@@ -7,14 +7,10 @@ merekap data operasional sumur secara terpusat. Sistem ini dirancang untuk menin
 akurasi, dan keteraturan data, serta mempermudah proses monitoring dan pengambilan 
 keputusan oleh manajemen.
 
----
-
 ## System Components
 1. User (Admin Operasional dan Kepala Bagian)
 2. Web Application (Sistem Operasional Sumur)
 3. Database (penyimpanan data operasional sumur)
-   
----
 
 ## System Workflow 
 1. Admin Operasional melakukan input data operasional sumur
