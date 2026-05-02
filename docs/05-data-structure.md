@@ -31,3 +31,14 @@
 ## Relasi Antar Entitas
    * Setiap data operasional sumur terhubung dengan satu jenis sumur pada tabel master sumur
    * Satu user dapat mengelola banyak data operasional sumur
+
+## ERD Sistem
+
+![ERD.drawio](./diagrams/ERD.drwaio.png)
+
+ERD ini menggambarkan struktur database sistem operasional kontrol sumur yang terdiri dari tiga entitas utama yaitu User, Sumur, dan Data Operasional Sumur.
+
+Relasi yang digunakan adalah one-to-many (1:N), dimana satu pengguna dapat menginput banyak data operasional, dan satu sumur dapat memiliki banyak data operasional.
+
+Tabel Data Operasional Sumur berperan sebagai tabel transaksi, sedangkan tabel User dan Sumur berfungsi sebagai tabel referensi untuk menjaga konsistensi data.
+
