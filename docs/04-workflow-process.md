@@ -8,6 +8,7 @@
 ## Flowchart Sistem
 
 ![Flowchart](../diagrams/flowchart.png)
+
 Flowchart ini menggambarkan alur sistem operasional kontrol sumur mulai dari proses input data oleh pengguna hingga menghasilkan laporan operasional.
 Data yang dimasukkan akan melalui tahap validasi untuk memastikan kelengkapan dan konsistensi. Jika data tidak valid, pengguna akan melakukan perbaikan sebelum disimpan ke dalam database.
 Data yang telah tersimpan kemudian digunakan untuk monitoring operasional dan pembuatan laporan sebagai dasar evaluasi dan pengambilan keputusan.
