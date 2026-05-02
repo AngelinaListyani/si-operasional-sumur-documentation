@@ -8,7 +8,7 @@
    * password
    * email
 
-## 2. Master Sumur 
+## 2. Sumur 
    Entitas ini berisi data referensi jenis - jenis sumur yang digunakan dalam operasional.
    **Atribut:**
    * id
