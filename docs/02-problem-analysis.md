@@ -15,3 +15,4 @@ secara manual oleh pihak manajemen kontrol sumur.
 - Proses monitoring operasional tidak berjalan optimal
 - Pengambilan keputusan menjadi kurang efektif
 - Efisiensi kerja menurun akibat proses yang tidak terotomatisasi
+- Keterlambatan dalam pengambilan keputusan serta meningkatnya risiko kesalahan dalam pengelolaan data operasional
