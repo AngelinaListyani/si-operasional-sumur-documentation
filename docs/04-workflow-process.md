@@ -1,9 +1,12 @@
 # Alur Kerja Sistem 
-1. Admin Operasional melakukan input data operasional sumur
-2. Sistem memproses, memvalidasi, dan memastikan konsistensi data yang dimasukkan 
-3. Data disimpan dalam database secara terpusat
-4. Data digunakan untuk monitoring operasional oleh admin dan kepala bagian
-5. Sistem menghasilkan rekapitulasi data dalam bentuk laporan
+1. Admin Operasional melakukan input data operasional sumur melalui sistem.
+2. Sistem melakukan validasi terhadap data yang dimasukkan, seperti kelengkapan dan format data.
+3. Jika data tidak valid atau tidak lengkap, sistem akan menampilkan pesan kesalahan dan meminta
+   pengguna untuk melakukan perbaikan.
+4. Jika data valid, sistem akan menyimpan data ke dalam database secara terpusat.
+5. Data yang telah tersimpan dapat diakses oleh Admin Operasional dan Kepala Bagian untuk keperluan monitoring.
+6. Sistem mengolah data yang tersedia untuk menghasilkan laporan operasional.
+7. Laporan yang dihasilkan digunakan sebagai dasar dalam pengambilan keputusan operasional.
 
 ## Flowchart Sistem
 
