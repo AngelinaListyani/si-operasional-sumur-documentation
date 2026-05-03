@@ -2,8 +2,11 @@
 
 ## Gambaran Umum 
 
-Repositori ini berisi dokumentasi dan analisis sistem operasional sumur yang dikembangkan berdasarkan studi kasus dari pengalaman magang. 
-Sistem ini dirancang untuk mengatasi permasalahan pencatatan data operasional yang sebelumnya dilakukan secara manual, sehingga meningkatkan efisiensi, akurasi, dan kemudahan monitoring.
+Sistem Operasional Kontrol Sumur merupakan sistem berbasis web yang dirancang untuk mengelola data operasional sumur secara terpusat.
+
+Pencatatan operasional yang masih dilakukan secara manual berpotensi menyebabkan kesalahan input, keterlambatan pelaporan, dan kesulitan dalam proses monitoring.
+
+Melalui sistem ini, diharapkan pengelolaan data menjadi lebih terstruktur, akurat, dan mudah diakses untuk mendukung pengambilan keputusan operasional.
 
 ## Tujuan Proyek
 
