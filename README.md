@@ -6,7 +6,9 @@ Sistem Operasional Kontrol Sumur merupakan sistem berbasis web yang dirancang un
 
 Pencatatan operasional yang masih dilakukan secara manual berpotensi menyebabkan kesalahan input, keterlambatan pelaporan, dan kesulitan dalam proses monitoring.
 
-Melalui sistem ini, diharapkan pengelolaan data menjadi lebih terstruktur, akurat, dan mudah diakses untuk mendukung pengambilan keputusan operasional.
+Melalui sistem ini, diharapkan pengelolaan data menjadi lebih terstruktur, akurat, dan mudah diakses untuk mendukung pengambilan keputusan operasional yang lebih efektif.
+
+Sistem ini digunakan oleh admin operasional dan supervisor untuk memantau aktivitas serta memastikan data operasional tercatat dengan baik.
 
 ## Tujuan Proyek
 
@@ -18,17 +20,6 @@ Melalui sistem ini, diharapkan pengelolaan data menjadi lebih terstruktur, akura
 ## Gambaran Sistem
 
 Sistem Operasional Kontrol Sumur merupakan aplikasi berbasis web yang digunakan untuk mengelola dan merekap data operasional sumur secara terpusat. Sistem ini mendukung proses input data, monitoring, serta pelaporan operasional.
-
-## Ringkasan Proyek 
-
-Dokumentasi dalam repositori ini mencakup :
-* Gambaran Umum Bisnis
-* Analisis Permasalahan
-* Perancangan Sistem 
-* Alur Kerja Sistem
-* Struktur Data
-* Use Case
-* Kesimpulan
   
 ## Struktur Dokumentasi 
 
