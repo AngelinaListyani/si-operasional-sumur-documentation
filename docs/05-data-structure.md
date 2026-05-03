@@ -13,14 +13,14 @@
    **Atribut:**
    * id
    * name
-   * code
+   * kode
 
 ## 3. Data Operasional Sumur 
    Entitas ini berisi data utama yang menyimpan hasil operasional sumur setiap periode 
    **Atribut:**
    * id
    * master_bagan (relasi ke master sumur)
-   * code
+   * kode
    * type
    * date
    * debit
