@@ -4,28 +4,27 @@
    Entitas ini digunakan untuk menyimpan data pengguna yang memiliki akses ke sistem.
    
    **Atribut:**
-   * id
+   * user_id
    * username
    * password
    * email
 
 ## 2. Sumur 
-   Entitas ini berisi data referensi jenis - jenis sumur yang digunakan dalam operasional.
+   Entitas ini berisi data master sumur yang digunakan dalam operasional.
    
    **Atribut:**
-   * id
-   * name
-   * kode
+   * sumur_id
+   * nama_sumur
+   * kode_sumur
 
 ## 3. Data Operasional Sumur 
    Entitas ini berisi data utama yang menyimpan hasil operasional sumur setiap periode 
    
    **Atribut:**
    * id
-   * master_bagan (relasi ke master sumur)
-   * kode
-   * type
-   * date
+   * user_id (relasi ke pengguna)
+   * sumur_id (relasi ke sumur)
+   * tanggal 
    * debit
    * kadar
    * jam kerja
