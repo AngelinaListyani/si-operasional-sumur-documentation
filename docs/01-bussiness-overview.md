@@ -12,4 +12,5 @@ serta pelaporan kepada pihak manajemen.
 
 Oleh karena itu, pengelolaan data operasional sumur yang terstruktur dan akurat 
 menjadi bagian penting dalam mendukung kelancaran proses produksi dan pengambilan keputusan.
+Sistem ini digunakan oleh admin operasional dan supervisor untuk memantau aktivitas serta memastikan data operasional tercatat dengan baik.
 
