@@ -36,7 +36,11 @@
 
 ## ERD Sistem
 
-![ERD.drawio](<img src="./diagrams/ERD.drawio.png" width="800"/>)
+<p align="center">
+  <img src="../diagrams/ERD.drawio.png" width="800"/>
+  <br>
+  <em>Gambar ERD Sistem Operasional Kontrol Sumur</em>
+</p>
 
 ERD ini menggambarkan struktur database sistem operasional kontrol sumur yang terdiri dari tiga entitas utama yaitu User, Sumur, dan Data Operasional Sumur.
 
