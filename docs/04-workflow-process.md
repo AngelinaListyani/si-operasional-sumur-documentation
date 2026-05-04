@@ -11,7 +11,7 @@
 ## Flowchart Sistem
 
 <p align="center">
-  <img src="./diagrams/Flowchart.drawio.png" width="700"/>
+  <img src="./diagrams/Flowchart.drawio.png" width="600"/>
   <br>
   <em>Gambar Flowchart Sistem Operasional Kontrol Sumur</em>
 </p>
