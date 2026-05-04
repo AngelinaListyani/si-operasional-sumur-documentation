@@ -2,28 +2,27 @@
 
 ## Gambaran Umum 
 
-Sistem Operasional Kontrol Sumur merupakan sistem berbasis web yang dirancang untuk mengelola data operasional sumur secara terpusat.
+Sistem Operasional Kontrol Sumur merupakan solusi berbasis web yang dirancang untuk mengelola data operasional sumur secara terpusat.
 
-Pencatatan operasional yang masih dilakukan secara manual berpotensi menyebabkan kesalahan input, keterlambatan pelaporan, dan kesulitan dalam proses monitoring.
+Sistem ini dikembangkan berdasarkan studi kasus dari proses operasional yang sebelumnya masih dilakukan secara manual, sehingga data tidak terstruktur, rentan terhadap kesalahan pencatatan, serta menyulitkan proses monitoring dan pelaporan.
 
-Melalui sistem ini, diharapkan pengelolaan data menjadi lebih terstruktur, akurat, dan mudah diakses untuk mendukung pengambilan keputusan operasional yang lebih efektif.
+Melalui sistem ini, pengelolaan data menjadi lebih terstruktur, akurat, dan mudah diakses, sehingga dapat meningkatkan efisiensi operasional serta mendukung pengambilan keputusan yang lebih efektif.
 
-Sistem ini digunakan oleh admin operasional dan supervisor untuk memantau aktivitas serta memastikan data operasional tercatat dengan baik.
+Sistem ini digunakan oleh admin operasional dan supervisor untuk melakukan input data, monitoring aktivitas, serta penyusunan laporan operasional.
 
-## Tujuan Proyek
+## Peran dan Fokus
 
-* Menganalisis proses operasional sumur dalam lingkungan kerja nyata
-* Mengidentifikasi permasalahan pada sistem manual
-* Mendesain alur sistem dan struktur data
-* Menyusun dokumentasi sistem yang terstruktur dan mudah dipahami
-  
-## Gambaran Sistem
+Dalam proyek ini, saya berperan dalam:
 
-Sistem Operasional Kontrol Sumur merupakan aplikasi berbasis web yang digunakan untuk mengelola dan merekap data operasional sumur secara terpusat. Sistem ini mendukung proses input data, monitoring, serta pelaporan operasional.
-  
+- Menganalisis proses operasional yang berjalan
+- Mengidentifikasi permasalahan pada sistem manual
+- Mendesain alur sistem (workflow)
+- Menyusun struktur data dan relasi database
+- Menyusun dokumentasi sistem secara terstruktur dan mudah dipahami
+
 ## Struktur Dokumentasi 
 
-Silakan lihat folder [docs](./docs/) untuk detail dokumentasi:
+Dokumentasi dalam repositori ini [docs](./docs/) meliputi  :
 * Gambaran Umum Bisnis
 * Analisis Permasalahan
 * Perancangan Sistem 
@@ -31,6 +30,13 @@ Silakan lihat folder [docs](./docs/) untuk detail dokumentasi:
 * Struktur Data
 * Use Case
 * Kesimpulan
+
+## Hasil yang Dicapai 
+
+* Proses pencatatan data menjadi lebih terstruktur
+* Risiko kesalahan pencatatan dapat diminimalisir
+* Data lebih mudah diakses untuk monitoring
+* Mendukung proses pelaporan serta pengambilan keputusan operasional yang lebih efektif
   
 ## Keterampilan yang Ditunjukkan 
 
@@ -39,12 +45,7 @@ Silakan lihat folder [docs](./docs/) untuk detail dokumentasi:
 * Pengelolaan Data
 * Penulisan Dokumentasi
 * Berpikir Analitis
-  
-## Penulis
-Angelina Listyani Kartika  
-S1 Teknik Informatika
 
 ## Catatan
 
-Proyek ini merupakan dokumentasi berbasis studi kasus dari pengalaman magang.
-Konten telah disederhanakan dan tidak merepresentasikan sistem operasional sebenarnya.
+Proyek ini merupakan dokumentasi berbasis studi kasus dari pengalaman magang dan tidak mencakup data sensitif perusahaan.
