@@ -37,7 +37,7 @@
 ## ERD Sistem
 
 <p align="center">
-  <img src="../diagrams/ERD.drawio.png" width="800"/>
+  <img src="./diagrams/ERD.drawio.png" width="800"/>
   <br>
   <em>Gambar ERD Sistem Operasional Kontrol Sumur</em>
 </p>
