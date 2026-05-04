@@ -10,7 +10,11 @@
 
 ## Flowchart Sistem
 
-![Flowchart.drawio](./diagrams/Flowchart.drawio.png)
+<p align="center">
+  <img src="./diagrams/Flowchart.drawio.png" width="800"/>
+  <br>
+  <em>Gambar Flowchart Sistem Operasional Kontrol Sumur</em>
+</p>
 
 Flowchart ini menggambarkan alur sistem operasional kontrol sumur mulai dari proses input data oleh pengguna hingga menghasilkan laporan operasional.
 
